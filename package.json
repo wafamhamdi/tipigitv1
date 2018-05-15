@@ -12,9 +12,10 @@
     "e2e": "ng e2e",
     "postinstall": "ng build --aot -prod"
   },
-  "engines":{
+  "engines": {
     "node": "v8.9.4",
-    "npm": "5.6.0"},
+    "npm": "5.6.0"
+  },
   "private": true,
   "dependencies": {
     "@angular/cli": "~1.7.3",
@@ -31,7 +32,7 @@
     "avsc": "^5.2.3",
     "body-parser": "^1.18.2",
     "core-js": "^2.4.1",
-    "elasticsearch": "^14.2.2",
+    "elasticsearch": "^15.0.0",
     "express": "^4.16.3",
     "express-mongo-db": "^2.0.4",
     "feedback-to-gitlab": "^1.0.3",
